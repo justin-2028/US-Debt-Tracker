@@ -1,1 +1,1 @@
-# US-Debt-Tracker
+# US Debt Tracker
